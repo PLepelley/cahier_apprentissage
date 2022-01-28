@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="client_serveur.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="382.18781"
+     inkscape:cy="544.03448"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="500.97106"
+       y="924.42798"
+       width="99.763578"
+       height="45.934309"
+       id="rect20245" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1a5f7a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="51.272377"
+       height="37.030052"
+       x="5.8868284"
+       y="151.91815" />
+    <rect
+       style="fill:#086e7d;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1"
+       id="rect33"
+       width="46.524937"
+       height="67.413681"
+       x="80.896416"
+       y="138.24551" />
+    <rect
+       style="fill:#fff89a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect79"
+       width="34.941177"
+       height="46.335037"
+       x="153.76382"
+       y="147.71486" />
+    <ellipse
+       style="fill:#ffc900;fill-opacity:1;fill-rule:evenodd;stroke-width:0.263871"
+       id="path103"
+       cx="171.32936"
+       cy="147.6871"
+       rx="17.56554"
+       ry="2.0888798" />
+    <ellipse
+       style="fill:#fff89a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.263157"
+       id="path103-9"
+       cx="171.28883"
+       cy="193.6701"
+       rx="17.470592"
+       ry="2.0888798" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.290676"
+       y="174.48822"
+       id="text2410"><tspan
+         sodipodi:role="line"
+         id="tspan2408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="16.290676"
+         y="174.48822">Client</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="85.826683"
+       y="175.83391"
+       id="text2410-9"><tspan
+         sodipodi:role="line"
+         id="tspan2408-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="85.826683"
+         y="175.83391">Serveur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.41167"
+       y="175.30795"
+       id="text2410-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan2408-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="160.41167"
+         y="175.30795">BDD</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#086e7d;stroke-width:0.264583;stroke-opacity:1"
+       id="rect13015"
+       width="44.625957"
+       height="43.296673"
+       x="81.46611"
+       y="211.35614"
+       sodipodi:insensitive="true" />
+  </g>
+</svg>
